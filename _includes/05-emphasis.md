@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+I can do things
+- I know how to do _karate_ as well as **JavaScript**
+- Python?
